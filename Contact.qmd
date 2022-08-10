@@ -1,0 +1,23 @@
+---
+title: "Contact"
+---
+
+Email 
+
+:   [robert.maidstone@ocdem.ox.ac.uk](mailto:robert.maidstone@ocdem.ox.ac.uk)
+
+Twitter
+
+:   [www.twitter.com/robertmaidstone](www.twitter.com/robertmaidstone)
+
+ORCID
+
+:   [https://orcid.org/0000-0002-3482-3246](https://orcid.org/0000-0002-3482-3246)
+
+Google Scholar
+
+:   [https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ](https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ)
+
+Github
+
+:   [https://github.com/robertmaidstone](https://github.com/robertmaidstone)
