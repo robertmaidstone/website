@@ -1,0 +1,11 @@
+---
+title: "Code"
+---
+
+* [**This website**](https://github.com/robertmaidstone/website){target="_blank"} *Robert Maidstone* - R code to generate this website using Quarto.
+
+* [**Asthma_ShiftWork_UKB**](https://github.com/robertmaidstone/Asthma_ShiftWork_UKB){target="_blank"} *Robert Maidstone* - R code to perform the data analysis from Maidstone et al. (2020). Investigates the link between shift work and asthma in the UKBiobank. Data for this analysis can be obtained from the UKBiobank.
+
+* [**CPOP**](http://www.research.lancs.ac.uk/portal/en/datasets/cpop(56c07868-3fe9-4016-ad99-54439ec03b6c).html){target="_blank"} *Robert Maidstone*, Paul Fearnhead and Adam Letchford - R code implementing the CPOP algorithm from Maidstone, Fearnhead and Letchford (2017). Includes code used for the simulation study/comparison with NOT and Trend-Filtering.
+
+* [**FPOP**](https://r-forge.r-project.org/projects/opfp/){target="_blank"} Guillem Rigaill, Toby Hocking, *Robert Maidstone* and Paul Fearnhead - R-forge repository containing R code for running FPOP (called opfp on R-forge) from Maidstone et al. (2017), and also for reproducing plots from the paper.

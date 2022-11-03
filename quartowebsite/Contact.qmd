@@ -1,0 +1,27 @@
+---
+title: "Contact"
+---
+
+Email 
+
+:   [robert.maidstone@manchester.ac.uk](mailto:robert.maidstone@manchester.ac.uk)
+
+Mastodon
+
+:   [https://fosstodon.org/@robertmaidstone](https://fosstodon.org/@robertmaidstone)
+
+Twitter
+
+:   [www.twitter.com/robertmaidstone](www.twitter.com/robertmaidstone){target="_blank"}
+
+ORCID
+
+:   [https://orcid.org/0000-0002-3482-3246](https://orcid.org/0000-0002-3482-3246){target="_blank"}
+
+Google Scholar
+
+:   [https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ](https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ){target="_blank"}
+
+Github
+
+:   [https://github.com/robertmaidstone](https://github.com/robertmaidstone){target="_blank"}

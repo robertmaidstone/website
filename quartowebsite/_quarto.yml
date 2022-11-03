@@ -1,0 +1,58 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Robert Maidstone"
+  twitter-card: true
+  description: "Personal webpage for Dr Robert Maidstone"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+  #     - Publications.qmd
+
+  # page-footer:
+  #   right: "This page is built with [Quarto](https://quarto.org/)."
+    
+  sidebar:
+    title: "Dr Robert Maidstone"
+    style: "docked"
+    logo: "img/me4.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: envelope-fill
+        href: mailto:robert.maidstone@ocdem.ox.ac.uk
+        text: "Robert Maidstone email"
+      - icon: github
+        href: https://github.com/robertmaidstone
+        text: "Robert Maidstone github"
+      - icon: twitter
+        href: https://twitter.com/robertmaidstone
+        text: "Robert Maidstone twitter" 
+      - icon: mortarboard-fill
+        href: https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ
+        text: "Robert Maidstone google scholar" 
+    contents:       
+      - href: index.qmd
+        text: Home
+      - Publications.qmd
+      - Code.qmd
+      - Contact.qmd
+    background: "primary"  
+    #search: true
+    collapse-level: 1
+    border: true
+
+format:
+  html:
+    theme: [minty, theme.scss]
+      # light: [minty, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      # dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+editor: visual
+
