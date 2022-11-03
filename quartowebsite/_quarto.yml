@@ -29,6 +29,9 @@ website:
       - icon: github
         href: https://github.com/robertmaidstone
         text: "Robert Maidstone github"
+      - icon: mastodon
+        href: https://fosstodon.org/@robertmaidstone
+        text: "Robert Maidstone Mastodon"
       - icon: twitter
         href: https://twitter.com/robertmaidstone
         text: "Robert Maidstone twitter" 
