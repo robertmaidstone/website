@@ -4,9 +4,26 @@ title: "Publications"
 
 ### Preprints
 
-* [**The associations of chronotype and shift work with rheumatoid arthritis**](https://doi.org/10.1101/2022.07.07.22277352){target="_blank"} Thomas Butler, *Robert Maidstone*,  Martin K. Rutter, John McLaughlin, David W. Ray and Julie Gibbs - medRxiv, 2022.
+* [**Increased risk of asthma in female night shift workers**](https://doi.org/10.1101/2024.12.05.24318539){target="_blank"} *Robert J. Maidstone*, David W. Ray, Junxi Liu, Jack Bowden, Martin K. Rutter and Hannah J. Durrington - medRxiv, 2024.
 
-* [**Shift work and evening chronotype are related to prevalent non-alcoholic fatty liver disease in 282,303 UK biobank participants**](https://doi.org/10.1101/2022.05.19.22275307){target="_blank"} *Robert Maidstone*, Martin K. Rutter, Thomas Marjot, David W. Ray and Matthew Baxter - medRxiv, 2022.
+### 2024
+* [**Indoor and outdoor artificial light-at-night (ALAN) and cancer risk: A systematic review and meta-analysis of multiple cancer sites and with a critical appraisal of exposure assessment**](https://doi.org/10.1016/j.scitotenv.2024.177059){target="_blank"}	Anna Palomar-Cros, Andy Deprato, Kyriaki Papantoniou, Kurt Straif, Paige Lacy, *Robert Maidstone*, Ana Adan, Prasun Haldar, Saibal Moitra, Jose Francisco Navarro, Hannah Durrington, Subhabrata Moitra and Barbara N. Harding - Science of the Total Environment, 2024.
+
+* [**The impact of time of day on the diagnostic performance of tests for asthma**](https://doi.org/10.1183/23120541.00916-2023){target="_blank"}	Ran Wang, Stephen J. Fowler, *Robert Maidstone*, Laura Healy, Sarah Drake, Lesley Lowe, Angela Simpson, Clare S. Murray and Hannah J. Durrington - ERJ Open Research 10(4), 2024.
+
+* [**Influence of artificial light at night on asthma and allergic diseases: A systematic review and meta-analysis**](https://doi.org/10.1186/s12916-024-03291-5){target="_blank"}	Andy Deprato, *Robert Maidstone*, Anna Palomar Cros, Ana Adan, Prasun Haldar, Barbara N. Harding, Paige Lacy, Lyle Melenka, Saibal Moitra, Jose Francisco Navarro, Manolis Kogevinas, Hannah J. Durrington and Subhabrata Moitra - BMC Medicine 22(67), 2024.
+
+* [**Shift work and evening chronotype are related to prevalent non-alcoholic fatty liver disease in 282,303 UK biobank participants**](https://doi.org/10.1530/EC-23-0472){target="_blank"} *Robert Maidstone*, Martin K. Rutter, Thomas Marjot, David W. Ray and Matthew Baxter - Endocrine Connections 13(2), 2024.
+
+* [**Chronotype, but not night shift work, is associated with psoriasis: A cross-sectional study among UK Biobank participants.**](https://doi.org/10.1016/j.jid.2023.07.019){target="_blank"} *Robert Maidstone*, Mudassar Iqbal, Martin K. Rutter, David W. Ray and Helen S. Young - Journal of Investigative Dermatology 144(2), 2024.
+
+### 2023
+
+* [**The associations of chronotype and shift work with rheumatoid arthritis**](https://doi.org/10.1177/07487304231179595){target="_blank"} Thomas Butler, *Robert Maidstone*,  Martin K. Rutter, John McLaughlin, David W. Ray and Julie Gibbs - Journal of Biological Rhythms 38(5), 2023.
+
+* [**Identification of diurnal rhythmic blood markers in bronchial asthma**](https://doi.org/10.1183/23120541.00161-2023){target="_blank"} Karolina Krakowiak, *Robert J. Maidstone*, Amlan Chakaraborty, Alexandra C. Kendall, Anna Nicolaou, Polly Downton, Andreea-Daniela Cristian, Dave Singh, Andrew S.I. Loudon, David W. Ray and Hannah J. Durrington - ERJ Open Research 9(4), 2023.
+
+* [**Consequences of collagen induced inflammatory arthritis on circadian regulation of the gut microbiome**](https://doi.org/10.1096/fj.202201728R){target="_blank"} Devin A. Simpkins, Polly Downton, Kathryn J. Gray, Suzanna H. Dickson, *Robert  J. Maidstone*, Joanne E. Konkel, Matthew R. Hepworth, David W. Ray, David A. Bechtold and Julie E. Gibbs - The FASEB Journal 37(1), 2023.
 
 ### 2022
 

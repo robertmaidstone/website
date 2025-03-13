@@ -14,6 +14,8 @@ My recent work uses computational techniques to explore the relationships betwee
 
 Currently, I am funded by [Asthma & Lung UK](https://www.asthma.org.uk/){target="_blank"}.
 
+I co-lead the Research IT Computation and Data in Research (CaDiR) [UoM UK Biobank Users community](https://bit.ly/cadirUKB){target="_blank"}. I'm a research scholar with [Our Future Health](https://research.ourfuturehealth.org.uk){target="_blank"}.
+
 ### Academic history
 
 -   Research Fellow at the University of Manchester <br>
@@ -35,10 +37,11 @@ Currently, I am funded by [Asthma & Lung UK](https://www.asthma.org.uk/){target=
 
 [Full publication list \>\>](/Publications.html)
 
--   [**Chronic Inflammatory Arthritis Drives Systemic Changes in Circadian Energy Metabolism**](https://doi.org/10.1073/pnas.2112781119){target="_blank"} Polly Downton, Fabio Sanna, *Robert Maidstone*, Toryn M. Poolman, Edward A. Hayter, Suzanna H. Dickson, Nick A. Ciccone, James O. Early, Antony Adamson, David G. Spiller, Devin A. Simpkins, Matthew Baxter, Roman Fischer, Magnus Rattray, Andrew S.I. Loudon, Julie E. Gibbs, David A. Bechtold and David W. Ray - PNAS 119(18), 2022.
+* [**Increased risk of asthma in female night shift workers**](https://doi.org/10.1101/2024.12.05.24318539){target="_blank"} *Robert J. Maidstone*, David W. Ray, Junxi Liu, Jack Bowden, Martin K. Rutter and Hannah J. Durrington - medRxiv, 2024.
 
--   [**Shift Work is Associated with Positive COVID-19 Status in Hospitalised Patients**](http://dx.doi.org/10.1136/thoraxjnl-2020-216651){target="_blank"} *Robert Maidstone*, Simon G. Anderson, David W. Ray, Martin K. Rutter, Hannah J. Durrington and John F. Blaikley - Thorax 76(6), 2021.
+* [**Shift work and evening chronotype are related to prevalent non-alcoholic fatty liver disease in 282,303 UK biobank participants**](https://doi.org/10.1530/EC-23-0472){target="_blank"} *Robert Maidstone*, Martin K. Rutter, Thomas Marjot, David W. Ray and Matthew Baxter - Endocrine Connections 13(2), 2024.
+
+-   [**Influence of Artificial Light at Night on Asthma and Allergic Diseases: A Systematic Review and Meta-Analysis**](https://doi.org/10.1186/s12916-024-03291-5){target="_blank"}	Andy Deprato, *Robert Maidstone*, Anna Palomar Cros, Ana Adan, Prasun Haldar, Barbara N. Harding, Paige Lacy, Lyle Melenka, Saibal Moitra, Jose Francisco Navarro, Manolis Kogevinas, Hannah J. Durrington and Subhabrata Moitra - BMC Medicine 22(67), 2024.
 
 -   [**Night Shift Work is Associated with an Increased Risk of Asthma**](http://dx.doi.org/10.1136/thoraxjnl-2020-215218){target="_blank"} *Robert J. Maidstone*, James Turner, Celine Vetter, Hassan S. Dashti, Richa Saxena, Frank A.J.L. Sheer, Steven A. Shea, Simon D. Kyle, Deborah A. Lawlor, Andrew S.I. Loudon, John F. Blaikley, Martin K. Rutter, David W. Ray and Hannah J. Durrington - Thorax 76(1), 2021.
 
--   [**On Optimal Multiple Changepoint Algorithms for Large Data**](https://doi.org/10.1007/s11222-016-9636-3){target="_blank"} *Robert Maidstone*, Toby Hocking, Guillem Rigaill and Paul Fearnhead - Statistics and Computing 27(2), 519-533, 2017.

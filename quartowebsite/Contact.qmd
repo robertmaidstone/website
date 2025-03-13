@@ -6,13 +6,9 @@ Email
 
 :   [robert.maidstone@manchester.ac.uk](mailto:robert.maidstone@manchester.ac.uk)
 
-Mastodon
+Bluesky
 
-:   [https://fosstodon.org/@robertmaidstone](https://fosstodon.org/@robertmaidstone)
-
-Twitter
-
-:   [www.twitter.com/robertmaidstone](www.twitter.com/robertmaidstone){target="_blank"}
+:   [https://bsky.app/profile/robertmaidstone.bsky.social](https://bsky.app/profile/robertmaidstone.bsky.social){target="_blank"}
 
 ORCID
 
