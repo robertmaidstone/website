@@ -8,21 +8,21 @@ title: "Robert Maidstone"
 
 <!-- Currently, I am funded by [Wellcome Trust](https://wellcome.ac.uk/){target="_blank"} and [Medical Research Council](https://www.mrc.ac.uk/){target="_blank"} grants. -->
 
-I am a Research Fellow at the [University of Manchester](https://www.manchester.ac.uk/){target="_blank"}, part of [Dr. Hannah Durrington's](https://www.research.manchester.ac.uk/portal/hannah.durrington.html){target="_blank"} research group.
+I am a Research Fellow at the [University of Manchester](https://www.manchester.ac.uk/){target="_blank"}, funded by the [North West Lung Centre Charity](https://meu.org.uk/the-north-west-lung-centre-charity/){target="_blank"}.
 
-My recent work uses computational techniques to explore the relationships between the circadian clock and disease. In particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
+My research focuses on the relationships between the circadian clock and disease, in particular looking at the effect of disruption to the circadian system, for example through shift working, has on health.
 
-Currently, I am funded by [Asthma & Lung UK](https://www.asthma.org.uk/){target="_blank"}.
+My work is in collaboration with [Dr. Hannah Durrington's](https://www.research.manchester.ac.uk/portal/hannah.durrington.html){target="_blank"} research group and I am part of the [Bioinference](https://manchesterbioinference.github.io/bioinference_website/){target="_blank"} computational research group at Manchester.
 
 I co-lead the Research IT Computation and Data in Research (CaDiR) [UoM UK Biobank Users community](https://bit.ly/cadirUKB){target="_blank"}. I'm a research scholar with [Our Future Health](https://research.ourfuturehealth.org.uk){target="_blank"}.
 
 ### Academic history
 
--   Research Fellow at the University of Manchester <br> *November 2022 - present; with Dr. Hannah Durrington*
+-   Research Fellow at the University of Manchester <br> *November 2022 - present*
 
--   Research Associate at OCDEM, University of Oxford <br> *September 2018 - November 2022; with Prof. David Ray*
+-   Research Associate at OCDEM, University of Oxford <br> *September 2018 - November 2022*
 
--   Research Associate at the University of Manchester <br> *July 2016 - September 2018; with Prof. David Ray and Prof. Andrew Loudon*
+-   Research Associate at the University of Manchester <br> *July 2016 - September 2018*
 
 ### Education
 

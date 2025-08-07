@@ -29,6 +29,9 @@ website:
       - icon: twitter
         href: https://bsky.app/profile/robertmaidstone.bsky.social
         text: "Robert Maidstone BlueSky"
+      - icon: github
+        href: https://github.com/robertmaidstone
+        text: "Robert Maidstone GitHub"
       - icon: mortarboard-fill
         href: https://scholar.google.co.uk/citations?hl=en&user=DZsXj_8AAAAJ
         text: "Robert Maidstone google scholar" 
