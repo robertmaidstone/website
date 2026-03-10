@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+### 2026
+
+-   [**Glucocorticoid-dependence and independence of the circadian liver transcriptome**](https://www.nature.com/articles/s44323-025-00068-8){target="_blank"} *Robert J. Maidstone*, A. Louise Hunter, Mudassar Iqbal, Nicola Begley, Matthew Baxter, Andrew S.I. Loudon, Magnus Rattray and David W. Ray - NPJ Biological Timing and Sleep, 2026.
+
 ### 2025
 
 -   [**Increased risk of asthma in female night shift workers**](https://doi.org/10.1183/23120541.00137-2025){target="_blank"} *Robert J. Maidstone*, David W. Ray, Junxi Liu, Jack Bowden, Martin K. Rutter and Hannah J. Durrington - ERJ Open Research, 2025.
